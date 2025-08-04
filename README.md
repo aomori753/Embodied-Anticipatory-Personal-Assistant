@@ -15,7 +15,10 @@ Embodied Agency: The assistant is not a chatbot. It is a physical, humanoid agen
 
 3. System Architecture
 The EAPA operates on a continuous Perception-Prediction-Action loop.
+
 ![System Architecture Diagram](architecture2.png)
+
+
 A. Perception Module (The Senses):
 
 Function: Ingests and processes multi-modal data from the environment.
